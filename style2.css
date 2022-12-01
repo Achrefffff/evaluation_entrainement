@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.fon{
+    background-color: white;
+}
+.color1{
+    color: red;
+    font-size: 50px;
+}
+.color2{
+    color: gold;
+    font-size: 25px;
+}
+.color3{
+    color: blue;
+    font-size: 25px;
+    
+}
+
+span{
+    color: aliceblue;
+    font-size: larger;
+}
+p{
+    font-size: 30px;
+    color: rgb(19, 140, 161);
+}
+#event{
+    text-align: center;
+    width: auto;
+    font-size: 15px;
+    color: brown;
+    margin-top: 10px;
+    border: solid lightskyblue 10px;
+}
